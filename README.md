@@ -1,0 +1,2 @@
+# BlancoRodriguezJoel_AE5_Turisme_local
+Pagina web responsive
